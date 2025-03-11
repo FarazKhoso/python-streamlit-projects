@@ -33,8 +33,8 @@ Welcome to my **Personal Library Manager** — a command-line based project crea
 ## 🙌 Connect with Me
 👨‍💻 **Muhammad Faraz**  
 📍 Karachi, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace this with your actual profile)*  
-📧 Email: your.email@example.com
+🔗 [LinkedIn] (https://www.linkedin.com/in/muhammad-faraz-931200347)  
+📧 Email: farazkhoso299@gmail.com
 
 ---
 
